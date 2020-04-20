@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer_speech_recognition",
+  "version": "1.0.0",
+  "description": "sample of using SpeechRecognition API with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoh1496/puppeteer_speech_recognition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoh1496/puppeteer_speech_recognition/issues"
+  },
+  "homepage": "https://github.com/yoh1496/puppeteer_speech_recognition#readme",
+  "dependencies": {
+    "puppeteer-core": "^3.0.0"
+  }
+}
